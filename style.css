@@ -1,0 +1,20 @@
+@media (min-width: 769px) {
+  .hello02 {
+    display: none;
+  }
+}
+@media (max-width: 769px) {
+  .hello01 {
+    display: none;
+  }
+}
+@media (min-width: 321px) {
+  .hello03 {
+    display: none;
+  }
+}
+@media (max-width: 321px) {
+  .hello02 {
+    display: none;
+  }
+}
